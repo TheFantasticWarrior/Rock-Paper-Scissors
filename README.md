@@ -5,7 +5,8 @@ branch genetic algorithm attempts to contain all children in 1 bot, follows the 
 
 this branch runs all bots separately and modify the genes after match ends, more effective as bot1 will react differently to each individual
 
-c and c2 is the same but separated the file to reduce human error switching between evaling and training
+c and c2 is the same but separated the file to reduce human error switching between evaling and training  
+`IO2.py` and `dllu.py` are top 2 bots from rpscontest.com leaderboard
 ## Usage
 bot1 is the filename of the opponent  
 n is how many children you want in the population  
